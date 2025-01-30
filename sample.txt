@@ -2,3 +2,7 @@ HI THIS IS MY FIRST GITHUB PROGRAM!!
 
 
 Made some changes
+
+git add
+git commit -m ""
+git push origin main
